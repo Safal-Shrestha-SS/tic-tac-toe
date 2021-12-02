@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-This is a game of tic-tac-toe using flutter and provider state management. This project is created to learn state management and list manipulatio. It has undo feature.
+This is a game of tic-tac-toe using flutter and provider state management. This project is created to learn state management and list manipulation. It has undo feature.
